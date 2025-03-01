@@ -1,0 +1,13 @@
+1. Разница в файлах README в первой строке:
+-Create release branch with human (master) in boots (boots branch) and hat (hat branch) with nice buttons on his jacket (buttons branch)
++Create release branch with human (master) in boots (boots branch) and hat (hat branch).
+
+2. 10 коммитов:
+
+        2 коммита от merge master
+        2 коммита от ветки boots_buttons
+        3 коммита от master (старые)
+        1 коммит buttons
+        1 коммит boots
+        1 коммит hat
+
